@@ -1,2 +1,2 @@
-# Machine_Learning_1
+# Machine Learning
 Machine Leaning Algorithms Implemented from Scratch
